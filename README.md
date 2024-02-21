@@ -92,7 +92,7 @@ To get started with Go Home With You, follow these simple steps:
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/sanoisaboy/GDSC_solution_challenge_forntend/blob/sano/LICENSE).
+This project is licensed under the [MIT License](https://github.com/YunJ-Chang/Go_home_with_you/blob/master/LICENSE).
 
 ## Author
 
