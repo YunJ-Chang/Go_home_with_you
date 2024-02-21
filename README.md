@@ -74,7 +74,7 @@ To get started with Go Home With You, follow these simple steps:
     ```
 2. **Navigate to the Project Directory**:
     ```bash
-    cd go-home-with-you
+    cd Go_home_with_you
     ```
 3. **Install Dependencies**:
     ```bash
