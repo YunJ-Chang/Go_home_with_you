@@ -4,4 +4,4 @@ const GOOGLE_MAPS_API_KEY =
     String.fromEnvironment('google_api_key', defaultValue: 'default_value');
 
 const FIREBASE_MAPS_API_KEY =
-    String.fromEnvironment('google_api_key', defaultValue: 'default_value');
+    String.fromEnvironment('firebase_api_key', defaultValue: 'default_value');
