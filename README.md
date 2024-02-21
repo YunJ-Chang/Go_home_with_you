@@ -70,7 +70,7 @@ To get started with Go Home With You, follow these simple steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/sanoisaboy/Go_home_with_you.git
+    git clone https://github.com/YunJ-Chang/Go_home_with_you.git
     ```
 2. **Navigate to the Project Directory**:
     ```bash
