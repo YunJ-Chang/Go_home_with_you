@@ -24,7 +24,7 @@ Before you proceed, it's essential to set up Firebase for your project. Follow t
 
 
 
-![alt文本](https://github.com/sanoisaboy/Go_home_with_you/blob/Sunny/image/firebase.png)
+![alt文本](https://github.com/YunJ-Chang/Go_home_with_you/blob/master/image/firebase.png)
 
 (It is important to set the collection name `userdata`).
 
